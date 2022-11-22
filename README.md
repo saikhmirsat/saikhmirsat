@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
                         alt="html5" width="70" height="70" /> </a> &nbsp; &nbsp; &nbsp;<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
                         alt="css3" width="70" height="70" /> </a> &nbsp; &nbsp; &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"                 target="_blank" rel="noreferrer"> <img                                                                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
-                        alt="javascript" width="70" height="70"/> </a>  &nbsp;   &nbsp;   &nbsp; <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
+                        alt="javascript" width="50" height="70"/> </a>  &nbsp;   &nbsp;   &nbsp; <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
                         alt="express" width="70" height="70" /> </a> &nbsp; &nbsp; &nbsp; 
   
