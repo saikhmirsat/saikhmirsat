@@ -58,14 +58,10 @@ You can click the Preview link to take a look at your changes.
                         alt="nodejs" width="70" height="70" /> </a>  &nbsp;   &nbsp;   &nbsp; <a href="https://reactjs.org/" target="_blank"
                 rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-                        alt="react" width="70" height="70" /> </a>  &nbsp;   &nbsp;   &nbsp; 
-<!--   <br/> -->
-  <a href="https://redux.js.org" target="_blank"
+                        alt="react" width="70" height="70" /> </a>  &nbsp;   &nbsp;   &nbsp; <a href="https://redux.js.org" target="_blank"
                 rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-                        alt="redux" width="70" height="70" /> </a>  &nbsp;   &nbsp;   &nbsp; 
- 
-  <a href="https://www.typescriptlang.org/"
+                        alt="redux" width="70" height="70" /> </a>  &nbsp;   &nbsp;   &nbsp; <a href="https://www.typescriptlang.org/"
                 target="_blank" rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
                         alt="typescript" width="70" height="70" /> </a>  &nbsp;   &nbsp;   &nbsp; </p>
