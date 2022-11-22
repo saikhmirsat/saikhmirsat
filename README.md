@@ -30,8 +30,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
   
-  <a href="https://www.w3.org/html/"
-                target="_blank" rel="noreferrer"> <img
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
                         alt="html5" width="70" height="70" /> </a> &nbsp; &nbsp; &nbsp;
   
@@ -44,10 +43,10 @@ You can click the Preview link to take a look at your changes.
                         alt="javascript" width="70" height="70" /> </a>  &nbsp;   &nbsp;   &nbsp; 
   <br/>
   
-  <a href="https://expressjs.com"
-                target="_blank" rel="noreferrer"> <img
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
                         alt="express" width="70" height="70" /> </a> &nbsp; &nbsp; &nbsp; 
+  
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
                         alt="bootstrap" width="70" height="70" /> </a> &nbsp; &nbsp; &nbsp;
@@ -57,22 +56,26 @@ You can click the Preview link to take a look at your changes.
                         alt="git" width="70" height="70" /> </a> &nbsp; &nbsp; &nbsp; 
  
 <!--   <br/> -->
-  <a href="https://www.mongodb.com/"
-                target="_blank" rel="noreferrer"> <img
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-                        alt="mongodb" width="70" height="70" /> </a>  &nbsp;   &nbsp;   &nbsp;  <a href="https://nodejs.org" target="_blank"
-                rel="noreferrer"> <img
+                        alt="mongodb" width="70" height="70" /> </a>  &nbsp;   &nbsp;   &nbsp; 
+  
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                        alt="nodejs" width="70" height="70" /> </a>  &nbsp;   &nbsp;   &nbsp; <a href="https://reactjs.org/" target="_blank"
-                rel="noreferrer"> <img
+                        alt="nodejs" width="70" height="70" /> </a>  &nbsp;   &nbsp;   &nbsp; 
+  
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-                        alt="react" width="70" height="70" /> </a>  &nbsp;   &nbsp;   &nbsp; <a href="https://redux.js.org" target="_blank"
-                rel="noreferrer"> <img
+                        alt="react" width="70" height="70" /> </a>  &nbsp;   &nbsp;   &nbsp; 
+  
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-                        alt="redux" width="70" height="70" /> </a>  &nbsp;   &nbsp;   &nbsp; <a href="https://www.typescriptlang.org/"
-                target="_blank" rel="noreferrer"> <img
+                        alt="redux" width="70" height="70" /> </a>  &nbsp;   &nbsp;   &nbsp;
+  
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-                        alt="typescript" width="70" height="70" /> </a>  &nbsp;   &nbsp;   &nbsp; </p>
+                        alt="typescript" width="70" height="70" /> </a>  &nbsp;   &nbsp;   &nbsp;
+</p>
 
 
 <p><img align="left" width="400px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=saikhmirsat&show_icons=true&locale=en&layout=compact" alt="saikhmirsat" /></p>
