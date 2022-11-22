@@ -46,11 +46,14 @@ You can click the Preview link to take a look at your changes.
                         alt="html5" width="70" height="70" /> </a> &nbsp; &nbsp; &nbsp;
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                        alt="javascript" width="70" height="70" /> </a>  &nbsp;   &nbsp;   &nbsp; <a href="https://www.mongodb.com/"
+                        alt="javascript" width="70" height="70" /> </a>  &nbsp;   &nbsp;   &nbsp; 
+  
+  <br/>
+  <a href="https://www.mongodb.com/"
                 target="_blank" rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
                         alt="mongodb" width="70" height="70" /> </a>  &nbsp;   &nbsp;   &nbsp; 
-  <br/>
+  
   <a href="https://nodejs.org" target="_blank"
                 rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
