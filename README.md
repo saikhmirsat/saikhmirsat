@@ -21,37 +21,37 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/saikhmirsat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saikhmirsat" height="30" width="40" /></a>
-<a href="https://instagram.com/saikh_mirsat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saikh_mirsat" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/saikhmirsat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="saikhmirsat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saikhmirsat" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" alt="saikhmirsat" height="30" width="40" /></a>
+<a href="https://instagram.com/saikh_mirsat" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="saikh_mirsat" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/saikhmirsat" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="saikhmirsat" height="30" width="40" /></a>
 </p>
 <br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="">  
   
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"
                         alt="html5" width="70" height="70" /> </a> &nbsp; &nbsp; &nbsp;<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                        alt="css3" width="70" height="70" /> </a> &nbsp; &nbsp; &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"                 target="_blank" rel="noreferrer"> <img                                                                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"
+                        alt="css3" width="70" height="70" /> </a> &nbsp; &nbsp; &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"                 target="_blank" rel="noreferrer"> <img                                                                         src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" 
                         alt="javascript" width="50" height="70"/> </a>  &nbsp;   &nbsp;   &nbsp; <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+                        src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png"
                         alt="express" width="70" height="70" /> </a> &nbsp; &nbsp; &nbsp; 
   
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+                        src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg"
                         alt="bootstrap" width="70" height="70" /> </a> &nbsp; &nbsp; &nbsp;<a href="https://git-scm.com/"
                 target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
                         alt="git" width="70" height="70" /> </a> &nbsp; &nbsp; &nbsp;<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+                        src="https://cyclr.com/wp-content/uploads/2022/03/ext-553.png"
                         alt="mongodb" width="70" height="70" /> </a>  &nbsp;   &nbsp;<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+                        src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png"
                         alt="nodejs" width="70" height="70" /> </a>  &nbsp;   &nbsp;   &nbsp;<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+                        src="https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png"
                         alt="react" width="70" height="70" /> </a>  &nbsp;   &nbsp;   &nbsp; <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+                        src="https://repository-images.githubusercontent.com/347723622/92065800-865a-11eb-9626-dff3cb7fef55"
                         alt="redux" width="70" height="70" /> </a>  &nbsp;   &nbsp;   &nbsp;<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+                        src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg"
                         alt="typescript" width="70" height="70" /> </a>  &nbsp;   &nbsp;   &nbsp;
 </p>
 
