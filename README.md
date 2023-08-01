@@ -1,5 +1,4 @@
 
-
 <!---
 saikhmirsat/saikhmirsat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -9,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="center">Hi 👋, I'm Saikh Mirsat</h1>
-<h3 align="center">A motivated, ambitious full stack web developer with MERN stack expertise. Creating websites using HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, and MongoDB. Looking to launch a career as a web developer in a reputable company that is technology-driven.</h3>
+<h3 align="center">A motivated, ambitious full-stack web developer with MERN stack expertise. Creating websites using HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, and MongoDB. Looking to launch a career as a web developer in a reputable company that is technology-driven.</h3>
 
 <br/>
 <br/>
